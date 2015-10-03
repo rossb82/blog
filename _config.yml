@@ -1,0 +1,22 @@
+# Site settings
+title: "Tidbits of Pure Bliss"
+header-img: img/home-bg.jpg
+
+author: Laura
+email: laura@tidbitsofpurebliss.com
+
+description: "One moms jounery through raising two kids, dog, and one very large man child!!"
+baseurl: ""
+url: "http://www.tidbitsofpurebliss.com"
+
+twitter_username: tidbitsofbliss
+facebook_username:  tidbitsofbliss
+pinterest_username:  tidbitsofbliss
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+side_paginate: 15
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "Gemfile", "Gemfile.lock","Rakefile","cibuild.sh"]
